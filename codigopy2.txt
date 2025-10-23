@@ -1,0 +1,7 @@
+password="Python123"
+ingresar= input ("ingrese la contraseña: ")
+
+if ingresar==password:
+    print ("acceso concedido")
+else:
+    print("Acceso denegado")
